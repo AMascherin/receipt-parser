@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "362632252804",
+    "firebase_url": "https://receipt-parser-flutter.firebaseio.com",
+    "project_id": "receipt-parser-flutter",
+    "storage_bucket": "receipt-parser-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362632252804:android:d9d0af8c3b23695b",
+        "android_client_info": {
+          "package_name": "com.amascherin.receipt_parser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362632252804-llo2452ehsbqgpmmmv0shufq0dn54h4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYScEg13J23glG8JZakq-Mw_m1cbPdACU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362632252804:android:304378ca475c782a",
+        "android_client_info": {
+          "package_name": "com.amascherin.receiptparser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362632252804-llo2452ehsbqgpmmmv0shufq0dn54h4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYScEg13J23glG8JZakq-Mw_m1cbPdACU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

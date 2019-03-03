@@ -1,16 +1,9 @@
-# receipt_parser
+# Intro
+How many times did you go to the restaurant with your friends and every time you had trouble dividing the bill? What if there is an app that, with a simple photo, can support you?
 
-Receipt parser in flutter
+# Receipt parser app
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Repository for a simple Flutter application that I'm working on.
+The goals for the final app are:
+- From a photo of a receipt of a restaurant, bar,supermarket,etc. the app should be able to identify the products bought and the corresponding price
+- Then it should provide the user a UI to help him split the bill with his friends
